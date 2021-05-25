@@ -1,6 +1,6 @@
-### Hi! Bonjour!
+## Hi! Bonjour! 😃
 
-## If you are looking for all the things I do, go to [tugdual.fr](tugdual.fr)
+### If you are looking for all the things I do, go to [tugdual.fr](tugdual.fr)
 
 [![Tugdual's GitHub stats](https://github-readme-stats.vercel.app/api?username=TugdualKerjan&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
